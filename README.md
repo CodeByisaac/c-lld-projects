@@ -1,4 +1,4 @@
-### - Whole lotta mini projects in Python cause im in love with the language 😍
+### - Whole lotta lld(oop) 
 ## 📚 Technologies Used
- - Language: Python
+ - Language: c++
  - And some other stuff
