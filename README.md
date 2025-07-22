@@ -1,4 +1,3 @@
-### - Whole lotta lld(oop) 
 ## 📚 Technologies Used
- - Language: c++
+ - Language: c++/python
  - And some other stuff
