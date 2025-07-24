@@ -1,3 +1,3 @@
 ## 📚 Technologies Used
- - Language: c++/python
+ - Language: c++/java
  - And some other stuff
